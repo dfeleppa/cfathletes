@@ -1,4 +1,4 @@
-class Cfathletes::CLI
+class Cfathletes
     def start
         puts "Welcome"
     end
