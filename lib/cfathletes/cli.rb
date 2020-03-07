@@ -1,8 +1,8 @@
-class Cfathletes::CLI
+class Cfathletes
 
 
     
-    def start
+    def initialize
         puts "Welcome"
      end
 end
