@@ -1,5 +1,7 @@
-class Cfathletes
+class Athlete
     def start
         puts "Welcome"
-    end
+     end
 end
+
+Athlete.new.start
