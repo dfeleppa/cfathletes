@@ -1,7 +1,8 @@
-class Athlete
+class Cfathletes::CLI
+
+
+    
     def start
         puts "Welcome"
      end
 end
-
-Athlete.new.start
