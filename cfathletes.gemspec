@@ -1,8 +1,8 @@
 require_relative 'lib/cfathletes/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "cfathletes"
-  spec.version       = Cfathletes::VERSION
+  spec.name          = "cfathleteCLI"
+  spec.version       = CfathleteCLI::VERSION
   spec.authors       = ["dfeleppa"]
   spec.email         = ["dfeleppa@gmail.com"]
 

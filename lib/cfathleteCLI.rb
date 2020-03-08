@@ -1,10 +1,12 @@
 require "cfathletes/version"
-require "cfathletes/cli"
-
+require_relative "cfathletes/cli"
+        
 #dependencies
 require pry
 
-module Cfathletes
+module CfathleteCLI
   class Error < StandardError; end
   # Your code goes here...
 end
+
+Cfathletes.new.start
